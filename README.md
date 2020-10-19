@@ -4,4 +4,4 @@ Codi font corresponent al projecte "Tomoe" presentat a l'assignatura "Interfaces
 
 ## Credits
 
-non ten xeito (https://nontenxeito.net/portfolio/haik-us-2/) + Andrea Olmedo Río + Roger Olivella (roger.olivella@gmail.com)
+[Xeito Fole] (https://nontenxeito.net/portfolio/haik-us-2/) + Andrea Olmedo Río + [Roger Olivella] (http://bifur.cat)

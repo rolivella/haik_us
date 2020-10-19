@@ -1,1 +1,7 @@
-# haik_us
+# Tomoe (2010)
+
+Codi font corresponent al projecte "Tomoe" presentat a l'assignatura "Interfaces físicas" de José Lozano al Màster en Arts Digitals de la UPF, edició 2010. 
+
+## Credits
+
+non ten xeito (https://nontenxeito.net/portfolio/haik-us-2/) + Andrea Olmedo Río + Roger Olivella (roger.olivella@gmail.com)
